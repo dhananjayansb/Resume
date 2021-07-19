@@ -1,0 +1,61 @@
+color
+Blue :
+
+$color-midblue:#34495e;
+$color-peterriver :#3498db;
+$color-peterriver-two :#2980b9;
+
+brown :
+
+$color-midblue:#69510f;
+$color-peterriver :#c1951b;
+$color-peterriver-two :#997510;
+
+Black : 
+
+$color-midblue:#0f1214;
+$color-peterriver :#404243;
+$color-peterriver-two :#242728;
+
+Drakblue :
+
+$color-midblue:#232f47;
+$color-peterriver :#3b5998;
+$color-peterriver-two :#2f4165;
+
+Green : 
+
+$color-midblue:#547121;
+$color-peterriver :#a0ce4e;
+$color-peterriver-two :#83b132;
+
+Nephritis : 
+
+$color-midblue:#1e7041;
+$color-peterriver :#2ecc71;
+$color-peterriver-two :#27ae60;
+
+Orange : 
+
+$color-midblue:#ac6e0b;
+$color-peterriver :#f39c12;
+$color-peterriver-two :#d48201;
+
+Purple : 
+
+$color-midblue:#632f78;
+$color-peterriver :#a66bbe;
+$color-peterriver-two :#8e44ad;
+
+Red : 
+
+$color-midblue:#9f2c20;
+$color-peterriver :#e74c3c;
+$color-peterriver-two :#c0392b;
+
+Rose :
+
+$color-midblue:#8c2659;
+$color-peterriver :#ef3e96;
+$color-peterriver-two :#d73586;
+
