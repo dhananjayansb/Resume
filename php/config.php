@@ -1,6 +1,6 @@
 <?
 	//define the receiver of the email
-	define('TO_EMAIL','admin@acaart.com');
+	define('TO_EMAIL','dhananjayansb@gmail.com');
 	
 	//define the subject of the email
 	define('SUBJECT','Contact from your website');	
